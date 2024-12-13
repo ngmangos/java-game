@@ -1,0 +1,7 @@
+{
+    "player_attack": 5,
+    "player_health": 15,
+    "snake_health": 4,
+    "snake_attack": 10,
+    "snake_health_key_buff": 4
+}

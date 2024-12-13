@@ -1,0 +1,9 @@
+{
+    "bribe_amount": 10,
+    "bribe_radius": 1,
+    "mercenary_attack": 0,
+    "mercenary_health": 1,
+    "player_attack": 10,
+    "player_health": 10,
+    "enemy_goal": 2
+}
